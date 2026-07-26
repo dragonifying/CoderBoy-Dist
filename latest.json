@@ -1,0 +1,7 @@
+{
+  "version": "0.7.221",
+  "tag": "v0.7.221",
+  "url": "https://github.com/dragonifying/CoderBoy-Dist/releases/download/v0.7.221/CoderBoySetup.exe",
+  "sha256": "c58ab916ce9073eb3c311a6f9fe7ab54a15b498b09cb7f2fe618783b43ea9cad",
+  "notes": "Desktop LAN recovery timing repair: eight-frame bounded repair window, faster selective retransmits, XOR parity, and reliable stable-manifest automatic updates. Phone, controller, input, audio, native resolution, and unified Connect UI preserved."
+}
