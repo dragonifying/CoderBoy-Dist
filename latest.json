@@ -1,7 +1,7 @@
 {
-  "version": "0.7.224",
-  "tag": "v0.7.224",
-  "url": "https://github.com/dragonifying/CoderBoy-Dist/releases/download/v0.7.224/CoderBoySetup.exe",
-  "sha256": "b8202921a0767c53693beb843ad15f094f2369a8da4b4cbe46ea5b01c828c0e9",
-  "notes": "Attempt 2/3: DXGI frame-acquire synchronization fixes the measured 30-32 FPS every-other-frame alias, while suppressing false LAN repair requests. Retains low-latency VBR, two-frame NVENC buffer, locked relative game mouse, fullscreen fill, phone, controller, keyboard, audio, and unified Connect UI."
+  "version": "0.7.225",
+  "tag": "v0.7.225",
+  "url": "https://github.com/dragonifying/CoderBoy-Dist/releases/download/v0.7.225/CoderBoySetup.exe",
+  "sha256": "bec4c1f86c0d645eb250cebbf01af79677c8c5692dd17d4b09d1aaaee3b22b94",
+  "notes": "Final FPS attempt: one absolute 60 Hz capture clock eliminates both the 30 FPS v-sync alias and 0.7.224 burst loss. Local DXGI-NVENC-transport-NVDEC-present validation sustained 58.7-60.8 FPS with zero late drops. Retains locked game mouse, fullscreen fill, controller, keyboard, audio, phone, and unified Connect UI."
 }
