@@ -1,7 +1,7 @@
 {
-  "version": "0.7.225",
-  "tag": "v0.7.225",
-  "url": "https://github.com/dragonifying/CoderBoy-Dist/releases/download/v0.7.225/CoderBoySetup.exe",
-  "sha256": "bec4c1f86c0d645eb250cebbf01af79677c8c5692dd17d4b09d1aaaee3b22b94",
-  "notes": "Final FPS attempt: one absolute 60 Hz capture clock eliminates both the 30 FPS v-sync alias and 0.7.224 burst loss. Local DXGI-NVENC-transport-NVDEC-present validation sustained 58.7-60.8 FPS with zero late drops. Retains locked game mouse, fullscreen fill, controller, keyboard, audio, phone, and unified Connect UI."
+  "version": "0.7.226",
+  "tag": "v0.7.226",
+  "url": "https://github.com/dragonifying/CoderBoy-Dist/releases/download/v0.7.226/CoderBoySetup.exe",
+  "sha256": "57faa118481f86d41a477c472cb7f4fb22d316c6a08e6ffdafef98729199ff0f",
+  "notes": "0.7.226 LAST CHANCE: delay-primary bitrate on LAN+WAN (client queueing-delay ACK + NACK), slow-start ~60pct ceiling, floor 4Mbps. Inspired by Parsec same-path LAN (queue0 ~5.4Mbps) — our code only. Update BOTH PCs."
 }
