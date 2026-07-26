@@ -1,7 +1,7 @@
 {
-  "version": "0.7.221",
-  "tag": "v0.7.221",
-  "url": "https://github.com/dragonifying/CoderBoy-Dist/releases/download/v0.7.221/CoderBoySetup.exe",
-  "sha256": "c58ab916ce9073eb3c311a6f9fe7ab54a15b498b09cb7f2fe618783b43ea9cad",
-  "notes": "Desktop LAN recovery timing repair: eight-frame bounded repair window, faster selective retransmits, XOR parity, and reliable stable-manifest automatic updates. Phone, controller, input, audio, native resolution, and unified Connect UI preserved."
+  "version": "0.7.222",
+  "tag": "v0.7.222",
+  "url": "https://github.com/dragonifying/CoderBoy-Dist/releases/download/v0.7.222/CoderBoySetup.exe",
+  "sha256": "97fc6092ae402f27f8fe03ec08bcb743fb1ecfce736a33f88df50ace01373365",
+  "notes": "Parsec-measured LAN profile: 10 Mbps video ceiling, LAN parity storm removed, eight-frame bounded repair window, restrained selective retransmission, and stable automatic updater manifest. Phone, controller, input, audio, 1440p, and unified Connect UI preserved."
 }
